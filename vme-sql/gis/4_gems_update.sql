@@ -1,4 +1,5 @@
 -- CREATE VIEW for VME GEMS products
+-- Remember to delete the entry from the USER_SDO_GEO_METADATA before running the script
 -- ---------------------------------
 CREATE OR REPLACE VIEW FIGIS_GIS.VMEMEASURES_TIME AS
 -- VME_GIS_CLOSURE (from VME-db CMS)
