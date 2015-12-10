@@ -1,5 +1,7 @@
 -- This script gives the different sql to be run to split the VME GIS data
 -- and produce two table named VME_GIS_BFA and VME_GIS_OARA
+-- Remember to delete the entries from the USER_SDO_GEOM_METADATA and to drop them before running the script
+-- Ignore warning errors for the time being after executing the script
 
 -- TABLES
 -- ======
